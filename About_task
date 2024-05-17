@@ -1,0 +1,19 @@
+Weather Dashboard:
+      This repository contains the second phase of a Weather Dashboard project assigned by CodersCave Internships. The Weather Dashboard is a dynamic web application that provides real-time weather information and a 5-day forecast based on the user's location. It is designed to be both informative and visually appealing, utilizing modern web development technologies.
+
+Features:
+    Current Weather Information: Displays current weather conditions, including temperature, humidity, pressure, wind speed, sunrise, and sunset times.
+    5-Day Weather Forecast: Provides a 5-day forecast with daily high and low temperatures and weather icons representing the forecasted conditions.
+    Geolocation: Automatically fetches the user's location using the browser's geolocation API to provide accurate local weather data.
+    Responsive Design: Ensures a consistent and user-friendly experience across various devices and screen sizes.
+
+Technologies Used:
+  HTML: Structures the content and layout of the weather dashboard.
+  CSS: Styles the dashboard, providing a modern and responsive design.
+  JavaScript: Fetches and displays weather data using the OpenWeatherMap API, and handles real-time updates of time and date.
+
+Usage:
+  To use this Weather Dashboard, simply open the web application in your browser. The application will prompt you for permission to access your location. Once granted, it will display the current weather information and a 5-day forecast for your area. The interface is intuitive and updates in real-time to reflect the latest weather conditions.
+
+Conclusion:
+  This Weather Dashboard project demonstrates the integration of geolocation services and real-time data fetching to create a practical and visually engaging application. It serves as a valuable tool for users to stay informed about current and upcoming weather conditions. The project showcases essential web development skills, including responsive design, API integration, and dynamic content updates.
